@@ -16,6 +16,9 @@ web-build/
 # JetBrains IDEs
 /.idea/
 
+# Node.js
+package-lock.json
+
 # Yarn
 /.yarn/
 .yarnrc.yml
